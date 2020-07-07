@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Grit Innovation</string>
+
+    <string name="title_no_data_found">No Data Found</string>
+    <string name="msg_no_internet">Make sure your device is connected to the Internet.</string>
+
+    <string name="string_please_wait">Please wait…</string>
+
+</resources>
